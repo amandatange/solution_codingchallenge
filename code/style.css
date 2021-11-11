@@ -1,0 +1,73 @@
+body {
+  background-color: white;
+  text-align: center;
+}
+
+
+h1 {
+  color: rgb(252, 169, 183);
+  align-items: right;
+}
+
+h2 {
+  color: rgb(253, 189, 132);
+  font-size: 40px;
+
+}
+
+pre {
+  font-size: 16px;
+  font-family: 'Courier New', monospace;
+}
+
+#colours {
+  color: rgb(250, 156, 171);
+
+}
+
+#font {
+  font-family: 'Brush Script MT', cursive;
+  font-size: 20px;
+}
+
+
+.imageimage {
+  width: 100px;
+  border-radius: 50%;
+}
+
+.time {
+  color: rgb(250, 156, 171);
+}
+
+button {
+  font-family: 'Courier New', monospace;
+  display: inline-block;
+  padding:0.3em 1.2em;
+  margin:0 0.3em 0.3em 0;
+  
+  color: rgb(245, 138, 234);
+  border-radius: 50%;
+  background-color: pink;
+}
+
+.box {
+  margin: 10px;
+  padding: 50px;
+  width: 70%;
+  background-color: rgb(247, 240, 233);
+}
+
+.flexbox {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+}
+
+.ref {
+  color:peru;
+}
+
+time {
+  font-size: 20px;
+}
